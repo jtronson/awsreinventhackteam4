@@ -10,7 +10,7 @@ description goes here
 ## Developing
 Install these node modules:
 
- $ npm install winston lodash nodemailer nodemailer-sendmail-transport connect-flash favicon express https http node-rest-client jade restler nconf moment-timezone supertest mocha node-uuid nodemon jszip pdfmake express-session
+ $ npm install winston lodash nodemailer nodemailer-sendmail-transport connect-flash favicon express https http node-rest-client jade restler nconf moment-timezone mocha node-uuid nodemon jszip express-session
 
 Also create a logs directory:
  $ mkdir logs
