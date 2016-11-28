@@ -1,6 +1,6 @@
 
 
-# AWS ReInvent Hackathon Team 4
+# AWS RE:Invent Hackathon Team 4
 description goes here
 
 ## Usage
